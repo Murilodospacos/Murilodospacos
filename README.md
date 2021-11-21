@@ -5,6 +5,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilodospacos&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilodospacos&layout=compact&langs_count=7&theme=onedark"/>
 </div>
+  
+## Tecnologias que uso no meu dia
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Murilo-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Murilo-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -20,7 +23,7 @@
   <img align="center" alt="Murilo-VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 </div>
 
-  ##
+  ## Contato 
  
 <div> 
   <a href="https://l.instagram.com/?u=http%3A%2F%2Fwa.me%2F5519991486489&e=ATPQ-RRK8muf3aDsZdOrNxtNXB6gFfJBjDSjJOmieR69ZXl5xnPU8vXK4JlzEm3PuGjG5iPb0tCRvbrgqwNqpCs&s=1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>

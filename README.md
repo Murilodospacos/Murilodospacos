@@ -29,6 +29,7 @@ Conhecimento adquiridos no curso da Trybe :
   <img align="center" alt="Murilo-NodeJS" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Murilo-Express" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <img align="center" alt="Murilo-MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="Murilo-git" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <link align="center" alt="Murilo-Linux" height="50" width="50" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
   <img align="center" alt="Murilo-VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 </div>

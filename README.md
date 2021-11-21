@@ -1,4 +1,14 @@
 ### Olá! Eu sou o Murilo dos Paços 👋
+Formado em Técnico em mecatrônica, estudante de Desenvolvimento Web na Trybe, já trabalhei em uma empresa multinacional no ramo químico fazendo manutenções e garantindo padrão de qualidade seguindo os protocolos de segurança.
+
+As pessoas com quem trabalhei me consideram uma pessoa educada, disponível para ajudar, responsável e paciente.
+
+Priorizo estar com a minha família, gosto de fazer novas amizades e a minha paixão atual é aprender a aprender novas linguagens e conceitos com objetivo de me tornar um grande programador e fazer a diferença na vida das pessoas e das empresas por meio da programação e da tecnologia.
+
+Conhecimento adquiridos no curso da Trybe :
+- Fundamentos do Desenvolvimento Web (HTML, CSS, JAVA SCRIPT, testes unitários e automatizados com Jest).
+- Front-end (REACT, REDUX, Context API, Hooks, Testes automatizados com RTL e Metodologias Ágeis).
+- Back-end (Banco de dados,SQL, Express,MongoDB, Api, Heroku e NodeJS ).
 
 <div align="center">
   <a href="https://github.com/Murilodospacos">

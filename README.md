@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Murilo dos Paços 👋
-Formado em Técnico em mecatrônica, estudante de Desenvolvimento Web na Trybe, já trabalhei em uma empresa multinacional no ramo químico fazendo manutenções e garantindo padrão de qualidade seguindo os protocolos de segurança.
+Formado em Técnico em mecatrônica, em transição de carreira, estudante de Desenvolvimento Web na Trybe, já trabalhei em uma empresa multinacional no ramo químico fazendo manutenções e garantindo padrão de qualidade seguindo os protocolos de segurança.
 
 As pessoas com quem trabalhei me consideram uma pessoa educada, disponível para ajudar, responsável e paciente.
 

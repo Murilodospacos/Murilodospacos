@@ -1,6 +1,6 @@
 # Olá! Eu sou o Murilo dos Paços 👋
-## <a href="https://murilodospacos.github.io/portfolio" target="_blank">Link Portfólio</a>
-## <a href="https://drive.google.com/file/d/1fCh5iF7HGHky5Fx5U_kj8uxaMWpQRHOd/view?usp=sharing" target="_blank">Link Currículo</a>
+## <a href="https://murilodospacos.github.io/portfolio" rel="noopener" target="_blank">Link Portfólio</a>
+## <a href="https://drive.google.com/file/d/1fCh5iF7HGHky5Fx5U_kj8uxaMWpQRHOd/view?usp=sharing" rel="noopener" target="_blank">Link Currículo</a>
 ## [Link Portfólio](https://murilodospacos.github.io/portfolio){target="_blank"} :computer:
 ## [Link Currículo](https://drive.google.com/file/d/1fCh5iF7HGHky5Fx5U_kj8uxaMWpQRHOd/view?usp=sharing){target="_blank"} :page_facing_up:
 

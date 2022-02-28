@@ -14,7 +14,7 @@ Conhecimento adquiridos no curso da Trybe :
 - Back-end (Banco de dados,SQL, Express, MongoDB, Api, Heroku, Sockets e NodeJS).
 - Ciência da Computação(Python, POO, Padrões de Projeto, Redes, Raspagem de Dados, Algoritmos, Estrutura de Dados(Arrays, Hashmaps e Sets, Listas, Filas e Pilhas)).
 
-## [Link Projetos Trybe](https://github.com/Murilodospacos/trybe-projects)
+## [Link Projetos Trybe](https://github.com/Murilodospacos/trybe-projects) :file_folder:
 
 <div align="center">
   <a href="https://github.com/Murilodospacos">

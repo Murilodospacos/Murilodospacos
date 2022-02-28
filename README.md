@@ -1,5 +1,6 @@
 # Olá! Eu sou o Murilo dos Paços 👋
-#### [Repositório dos Códigos de Projetos da Trybe](https://github.com/Murilodospacos/trybe-projects)
+### Link abaixo dos Projetos realizados na Trybe
+#### [Projetos](https://github.com/Murilodospacos/trybe-projects)
 
 Formado em Técnico em mecatrônica, em transição de carreira, estudante de Desenvolvimento Web na Trybe, já trabalhei em uma empresa multinacional no ramo químico fazendo manutenções e garantindo padrão de qualidade seguindo os protocolos de segurança.
 

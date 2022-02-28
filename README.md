@@ -10,6 +10,7 @@ Conhecimento adquiridos no curso da Trybe :
 - Fundamentos do Desenvolvimento Web (HTML, CSS, JAVA SCRIPT, testes unitários e automatizados com Jest).
 - Front-end (REACT, REDUX, Context API, Hooks, Testes automatizados com RTL e Metodologias Ágeis).
 - Back-end (Banco de dados,SQL, Express,MongoDB, Api, Heroku e NodeJS ).
+- Ciẽncia da Computação(Python, POO, Padrões de Projeto, Redes, Raspagem de Dados, Algoritmos, Estrutura de Dados(Arrays, Hashmaps e Sets, Listas, Filas e Pilhas)).
 ## Link abaixo dos Projetos realizados na Trybe
 ### [Projetos](https://github.com/Murilodospacos/trybe-projects)
 

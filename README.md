@@ -1,6 +1,6 @@
 # Olá! Eu sou o Murilo dos Paços 👋
-## [Link Portfólio](https://murilodospacos.github.io/portfolio):computer:
-## [Link Currículo](https://drive.google.com/file/d/1fCh5iF7HGHky5Fx5U_kj8uxaMWpQRHOd/view?usp=sharing):page_facing_up:
+## [Link Portfólio](https://murilodospacos.github.io/portfolio) :computer:
+## [Link Currículo](https://drive.google.com/file/d/1fCh5iF7HGHky5Fx5U_kj8uxaMWpQRHOd/view?usp=sharing) :page_facing_up:
 
 Formado em Técnico em mecatrônica, em transição de carreira, estudante de Desenvolvimento Web na Trybe, já trabalhei em uma empresa multinacional no ramo químico fazendo manutenções e garantindo padrão de qualidade seguindo os protocolos de segurança.
 

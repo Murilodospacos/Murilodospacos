@@ -2,19 +2,15 @@
 ## [Link Portfólio](https://murilodospacos.github.io/portfolio) :computer:
 ## [Link Currículo](https://drive.google.com/file/d/1fCh5iF7HGHky5Fx5U_kj8uxaMWpQRHOd/view?usp=sharing) :page_facing_up:
 
-Formado em Técnico em mecatrônica, em transição de carreira, estudante de Desenvolvimento Web na Trybe, já trabalhei em uma empresa multinacional no ramo químico fazendo manutenções e garantindo padrão de qualidade seguindo os protocolos de segurança.
-
-As pessoas com quem trabalhei me consideram uma pessoa educada, disponível para ajudar, responsável e paciente.
-
-Priorizo estar com a minha família, gosto de fazer novas amizades e a minha paixão atual é aprender a aprender novas linguagens e conceitos com objetivo de me tornar um grande programador e fazer a diferença na vida das pessoas e das empresas por meio da programação e da tecnologia.
-
 Formado na Trybe em Desenvolvimento de Software Web onde conclui 37 projetos sendo 4 deles em grupo praticando metodologias ágeis.
 
-Conhecimento adquiridos no curso da Trybe :
-- Fundamentos do Desenvolvimento Web (HTML, CSS, JAVA SCRIPT, testes unitários e automatizados com Jest).
-- Front-end (REACT, REDUX, Context API, Hooks, Testes automatizados com RTL e Metodologias Ágeis).
-- Back-end (Banco de dados,SQL, Express, MongoDB, Api, Heroku, Sockets e NodeJS).
-- Ciência da Computação(Python, POO, Padrões de Projeto, Redes, Raspagem de Dados, Algoritmos, Estrutura de Dados(Arrays, Hashmaps e Sets, Listas, Filas e Pilhas)).
+Conhecimento adquiridos durante o curso :
+- Fundamentos do Desenvolvimento Web : VS Code, Git, GitHub, HTML, CSS, JAVA SCRIPT, testes unitários e automatizados com Jest.
+- Front-end : REACT, REDUX, Context API, Hooks, Testes automatizados com RTL e Metodologias Ágeis(Scrum e Kanban).
+- Back-end : Banco de dados, Mysql, SQL, NoSQL, MongoDB, Express,  Api, e  NodeJS.
+- Ciência da Computação : Python, POO, Padrões de Projeto, Redes, Raspagem de Dados, Algoritmos, Estrutura de dados(Arrays, Hashmaps, Sets, Listas, Filas e Pilhas).
+
+Priorizo estar com a minha família, gosto de fazer novas amizades e  a minha paixão atual é aprender a aprender novas linguagens e conceitos  com objetivo de me tornar um grande programador, tenho espírito empreendedor, detalhista, perfil analítico, movido por desafios e meu objetivo é fazer a diferença na vida das pessoas e das empresas por meio da programação e da tecnologia.
 
 ## [Link Projetos Trybe](https://github.com/Murilodospacos/trybe-projects) :file_folder:
 
